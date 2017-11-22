@@ -1,0 +1,5 @@
+package: .
+import:
+- package: github.com/op/go-logging
+- package: github.com/mattermost/platform
+  version: ^4.4.1
